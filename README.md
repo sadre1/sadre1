@@ -1,3 +1,4 @@
+![logo](https://github.com/sadre1/sadre1/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sadrealam Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding"width="400" src="https://cdn.dribbble.com/users/1739134/screenshots/6118892/infirmationssakerhet_startcase_01.gif">
