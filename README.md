@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sadrealam ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadrealam ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/sadrealam ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadrealam ahmed khan" height="30" width="40" /></a>
-<a href="https://instagram.com/sadrealam ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadrealam ahmed khan" height="30" width="40" /></a>
+<a href="https://instagram.com/sadrealam_ahmed_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadrealam ahmed khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
